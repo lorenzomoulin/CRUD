@@ -1,0 +1,42 @@
+Kiki Comidas:
+
+A "Kiki Comidas" é uma lanchonete que oferece uma variedade de produtos, como 
+
+hambúrgueres, batatas fritas, refrigerantes e sobremesas. Eles estão buscando melhorar a eficiência de suas operações de vendas e 
+garantir um controle adequado de pedidos, estoque e informações de clientes.
+
+A Delícia Rápida está enfrentando desafios na gestão de suas vendas diárias, pedidos de clientes e controle de estoque. 
+O desafio é criar um sistema de gestão de vendas que ajude a Delícia Rápida a:
+
+● Registro de Vendas
+ - Os atendentes da lanchonete devem ser capazes de registrar as vendas de 
+produtos de forma rápida e eficiente.
+ - O sistema deve capturar detalhes da venda, como os produtos vendidos, 
+quantidades, preços e datas.
+
+● Controle de Pedidos
+ - A lanchonete deseja um sistema que facilite o atendimento de pedidos dos 
+clientes, incluindo pedidos no balcão e pedidos para viagem (delivery).
+o Os pedidos devem ser registrados com precisão e podem incluir informações 
+sobre personalizações, como ingredientes extras ou remoções.
+
+● Gestão de Estoque
+ - A Delícia Rápida deseja manter um controle adequado do estoque de produtos.
+ - O sistema deve atualizar automaticamente o estoque após cada venda e gerar 
+alertas quando os produtos estiverem com estoque baixo.
+
+● Cadastro de Clientes
+ -  A lanchonete deseja manter um cadastro simples de clientes que podem fazer 
+pedidos regularmente.
+ -  Os detalhes do cliente podem incluir nome, endereço de entrega (para delivery) e informações de contato.
+Os alunos devem criar um sistema de gestão de vendas usando JavaScript, Node.js, 
+Express e um banco de dados MySQL para atender às necessidades da Delícia Rápida. A solução proposta deve abordar todos os desafios mencionados acima. 
+As funcionalidades específicas a serem implementadas incluem:
+
+● Registro de vendas de produtos da lanchonete.
+● Controle de pedidos, incluindo detalhes de personalização.
+● Atualização automática do estoque após cada venda.
+● Cadastro simples de clientes com informações de contato.
+
+Isso permitirá que a Delícia Rápida melhore a eficiência de suas operações de vendas, garanta o controle adequado de pedidos e estoque, 
+e forneça um melhor serviço aos clientes que desejam fazer pedidos regularmente. Um sistema de gestão é crucial para a operação eficaz de uma lanchonete.
